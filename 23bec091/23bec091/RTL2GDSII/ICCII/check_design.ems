@@ -1,0 +1,18 @@
+<Database>
+versionNumber:2
+Name/home/student/23bec091/RTL2GDSII/ICCII/check_design.ems
+Creation TimeMon Jun  2 05:12:16 2025
+Modified TimeMon Jun  2 05:12:17 2025
+Design Namepriority_encoder
+Library NamePRIORITY_ENCODER_LIB
+</Database>
+<RuleCount>
+CTS-9141
+DFT-0111
+</RuleCount>
+<UserDefinedRules>
+</UserDefinedRules>
+<Messages>
+DFT-011Informationreason10
+CTS-914WarningportClock10
+</Messages>
